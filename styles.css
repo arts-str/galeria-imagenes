@@ -60,3 +60,15 @@ a:hover {
   --t: 0.3s;
   color: #fff;
 }
+
+.container img.izquierda {
+    float: left;
+    width: 40%;
+    margin-right: 15px;
+}
+
+.container {
+    width: auto;
+    margin: 20px auto;
+    padding: 15px;
+}
